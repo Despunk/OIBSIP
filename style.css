@@ -1,0 +1,74 @@
+
+
+					html{
+						background-color:silver
+					}
+					body{
+						background-color:silver
+						}
+					h1{
+						color:gold;
+						font-family "Press Start 2P","consolas",sans-serif;
+						background:linear-gradient(to right,skyblue,lightgreen);
+					}
+					P{
+						color:black;
+						font-family:"consolos",sans-series;
+						background:linear-gradient(to left,skyblue,white);
+						background-repeat:no-repeat;
+						background-attachment:fixed;
+						
+						padding:20px;
+					}
+					#box1{
+						border:4px solid;
+						width:265px;
+						height:265px;
+						text-align:center;
+						background-color:gold
+						
+					}
+					/* Header styles*/
+					.header{
+						background-color:#f0f0f0;
+						padding:10px;
+						text-align;center;
+						width:100%
+						top:0;
+						position:transparent;
+					}
+					/*footer styles*/
+					.footer{
+						background-color:#f0f0f0;
+						padding:10px;
+						text-align:center
+						width:100%;
+						bottom:0;
+						position:transparent;
+					}
+					\* main content styles */
+					.main{
+						padding:20px;
+						margin-top:60px; /*adjust this value to match the height of my value data*/
+						margin-button:60px /* adjust this value to match the height of my footer */
+					}
+						
+	
+
+
+a:link{
+	color:lawngreen;
+}
+a:visited{
+	color:doggerblue;
+}
+a:hover{
+	color:tomato;
+}
+a:active{
+	color:yellow
+}
+button:hover{
+	background-color:teal
+}
+	
