@@ -30,7 +30,7 @@
 					}
 					/* Header styles*/
 					.header{
-						background-color:black;
+						background-color:brown;
 						padding:10px;
 						text-align:center;
 						width:100%
@@ -39,7 +39,7 @@
 					}
 					/*footer styles*/
 					.footer{
-						background-color:#red;
+						background-color:red;
 						padding:10px;
 						text-align:center;
 						width:100%;
