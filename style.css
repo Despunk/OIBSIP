@@ -52,6 +52,19 @@
 						margin-top:60px; /*adjust this value to match the height of my value data*/
 						margin-button:60px /* adjust this value to match the height of my footer */
 					}
+					table{
+						border-collapse:collapse;
+						width: 100%
+					}
+					th, td{
+						border: 1px solid #ddd;
+						padding: 8px;
+						text-align: left;
+					}
+					th{
+						background-color: #f0f0f0;
+						
+
 						
 	
 
